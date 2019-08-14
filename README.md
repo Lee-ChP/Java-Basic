@@ -7,3 +7,7 @@
 + anoandreflect : 
  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  注解与反射——利用元注解与反射实现了hibernate的entity、column等几个简单注解
+---
++ rabbitMQDemo :
+ <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ rabbitMQ消息队列的简单示例——只实现了常用的三种模式： fanut(广播)、direct(分食)、topic(订阅)
