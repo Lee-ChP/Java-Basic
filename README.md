@@ -4,7 +4,7 @@
 
 ## 文件夹说明
 ---
-+ anoandreflect : 
++ annotation [先看reflection文件夹] : 
  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  注解与反射——利用元注解与反射实现了hibernate的entity、column等几个简单注解
 ---
@@ -15,3 +15,7 @@
 + redisDemo :
  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  redis的简单操作
+ ---
++ reflection :
+ <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ java反射demo
