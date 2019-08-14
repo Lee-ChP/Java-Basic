@@ -11,3 +11,7 @@
 + rabbitMQDemo :
  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  rabbitMQ消息队列的简单示例——只实现了常用的三种模式： fanut(广播)、direct(分食)、topic(订阅)
+---
++ redisDemo :
+ <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ redis的简单操作
